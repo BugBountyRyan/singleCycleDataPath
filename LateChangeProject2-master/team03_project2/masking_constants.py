@@ -1,0 +1,12 @@
+bMask = 0x3FFFFFF
+jAddrMask = 0xFC000000
+specialMask = 0x1FFFFF
+rnMask = 0x3E0
+rmMask = 0x1F0000
+rdMask = 0x1F
+imMask = 0x3FFC00
+shmtMask = 0xFC00
+addrMask = 0x1FF000
+addr2Mask = 0xFFFFE0
+imsftMask = 0x600000
+imdataMask = 0x1FFFE0
